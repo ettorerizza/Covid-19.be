@@ -26,7 +26,7 @@ Ces données sont mises à disposition au format CSV, accompagnées du graphe or
 
 En conséquence, la seule vocation de ce répertoire est de mettre à disposition:
 
-- Pour les journalistes et pour les citoyens, une estimation au doigt mouillé, mais plus précise que l'oeil humain, des **grandes tendances** dissimulées dans les graphes - par exemple la mortalité par région. Ces grandes tendances peuvent tout à fait être exprimée à l'aide de pourcentages (par exemple dans un diagramme en camembert), à condition de préciser la nature approximative de ces données.
+- Pour les journalistes et pour les citoyens, une estimation au doigt mouillé, mais plus précise que l'oeil humain, des **grandes tendances** dissimulées dans les graphes - par exemple la mortalité par région. Ces grandes tendances peuvent tout à fait être exprimées sous forme de pourcentages (par exemple dans un diagramme en camembert), à condition toujours de préciser la nature approximative de ces données.
 
 - Pour les infographistes, une base plus pratique pour **reproduire (grosso modo) les graphiques originels**.
 
