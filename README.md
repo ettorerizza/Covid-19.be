@@ -27,4 +27,6 @@ En conséquence, la seule vocation de ce répertoire est de mettre à dispositio
 
 Toute utilisation de ces données à des fins d'analyse statistique est vivement déconseillée (ou à vos risques et périls).
 
+## Si vous souhaitez participer
 
+Les push requests sont les bienvenues, que ce soit pour ajouter des graphes ou corriger les données existantes (arrondir les chiffres, les modifier sur base des chiffres réels indiqués dans les rapports Sciensano antérieurs, etc.)
