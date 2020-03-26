@@ -21,8 +21,10 @@ En conséquence, la seule vocation de ce répertoire est de mettre à dispositio
 
 - Pour les journalistes et pour les citoyens, une estimation au doigt mouillé, mais plus précise que l'oeil humain, des **grandes tendances** dissimulées dans les graphes - par exemple la mortalité par région.
 
-- Pour les infographistes, une base plus pratique pour **reproduire les graphiques originels**.
+- Pour les infographistes, une base plus pratique pour **reproduire (grosso modo) les graphiques originels**.
 
-Toute utilisation de ces données à des fins d'analyse statistique est déconseillée. Ou a vos risques et périls.
+- Pour chacun, une version des graphiques (un peu) plus agréable à l'oeil.
+
+Toute utilisation de ces données à des fins d'analyse statistique est vivement déconseillée (ou à vos risques et périls).
 
 
