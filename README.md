@@ -22,7 +22,7 @@ Ce repo Github vise à stocker, pour chaque rapport Sciensano publié à partir 
 
 Ces données sont mises à disposition au format CSV, accompagnées du graphe original ainsi que d'une version améliorée de ce dernier (hélas au format png, l'export en image vectorielle étant impossible avec l'outil utilisé).
 
-*** --> ATTENTION : ces données et ces graphes n'ont rien d'officiel ! Il s'agit d'une extrapolation sur base de l'apparence des graphes originels ! <-- ***
+***-> ATTENTION : ces données et ces graphes n'ont rien d'officiel ! Il s'agit d'une extrapolation sur base de l'apparence des graphes originels ! <-***
 
 En conséquence, la seule vocation de ce répertoire est de mettre à disposition:
 
