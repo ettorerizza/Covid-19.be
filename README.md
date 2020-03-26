@@ -7,7 +7,7 @@
  
 Problème : tant le format de ces rapports (des fichiers PDF) que leur contenu (essentiellement des graphes, dont les données sous-jacentes sont souvent non indiquées) rendent leur interprétation difficile. 
 
-Par exemple, qui serait capable d'évaluer à partir de ce graphe, et avec une marge d'erreur raisonnable, le nombre de décès à Bruxelles le 24 mars ?
+Par exemple, qui serait capable d'évaluer à partir de ce graphe, et avec une marge d'erreur raisonnable, le nombre de décès en Flandre le 24 mars ?
 
 ![essayez de deviner les chiffres sous-jacents](https://github.com/ettorerizza/Covid-19.be/blob/master/2020-03-26/Evolution%20du%20nombre%20de%20d%C3%A9c%C3%A8s%20COVID-19%20par%20r%C3%A9gion_original.png)
 
