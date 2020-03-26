@@ -1,5 +1,5 @@
 # Covid-19.be
- Extraction de données belges liée à l'épidémie Covid-19
+ Extraction de données belges liées à l'épidémie Covid-19
  
  ## Situation
  
